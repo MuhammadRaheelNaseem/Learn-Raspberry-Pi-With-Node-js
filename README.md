@@ -474,3 +474,5 @@ https://www.advanced-ip-scanner.com/download/
 
 ![image](https://user-images.githubusercontent.com/63813881/172047944-6c793d9e-18e2-401f-9576-ab996a25ae21.png)
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/muhammadraheel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Raheel" /></a></p><br><br>
